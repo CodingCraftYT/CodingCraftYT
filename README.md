@@ -24,5 +24,5 @@
 <p>I once coded a Python program that generated random jokes about programming, and it became an instant hit among my coding friends! 🐍😄</p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/codingcraft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=codingcraft&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a></p><br><br>
 
