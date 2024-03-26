@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Coding Craft</h1>
 <h3 align="center">YouTube Python Creator 🐍 | AI Developer 🤖</h3>
 
-- 📫 How to reach me **<font color="#007bff">paliwalm4321@gmail.com</font>  <font color="#007bff">dhairyapaliwal00@gmail.com</font>**
+- 📫 How to reach me **<font color="#007bff">paliwalm4321@gmail.com</font>
 
 
 <h2>Ask me about</h2>
